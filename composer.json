@@ -9,7 +9,7 @@
         }
     ],
     "require": {
-        "legionlab/rest-kernel": "^0.2.0"
+        "legionlab/rest-kernel": "^0.22"
     },
     "autoload": {
         "psr-0": {
