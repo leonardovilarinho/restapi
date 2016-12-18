@@ -1,0 +1,19 @@
+{
+    "name": "legionlab/restapi",
+    "description": "RestAPI LegionLab PHP",
+    "license": "MITS",
+    "authors": [
+        {
+            "name": "Leonardo Vilarinho",
+            "email": "leonardo-i@outlook.com"
+        }
+    ],
+    "require": {
+        "legionlab/rest-kernel": "^0.2.0"
+    },
+    "autoload": {
+        "psr-0": {
+            "": "source/"
+        }
+    }
+}
